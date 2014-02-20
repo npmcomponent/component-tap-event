@@ -1,0 +1,8 @@
+{
+  "name": "component-tap-event",
+  "description": "Create tap event listeners",
+  "version": "0.0.7",
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}

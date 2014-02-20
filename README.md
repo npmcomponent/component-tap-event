@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [component/tap-event](http://github.com/component/tap-event). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/component-tap-event`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Tap Event
 
 Make your `touchstart` event listeners into a `tap` event listener!
